@@ -331,6 +331,16 @@ KEY_Y         // Y Button
 KEY_ZL        // ZL Button (new 3DS only)
 KEY_ZR        // ZR Button (new 3DS only)
 KEY_TOUCH     // Touch screen
+        
+"KEY_CSTICK_RIGHT"
+"KEY_CSTICK_LEFT"
+"KEY_CSTICK_UP"
+"KEY_CSTICK_DOWN"
+	
+"KEY_CPAD_RIGHT"
+"KEY_CPAD_LEFT"
+"KEY_CPAD_UP"
+"KEY_CPAD_DOWN"
 ````
 
 Note that the HOME button, the POWER button and the right circle pad of the New 3DS aren't present here. We will explain how to read them in a future chapter.
